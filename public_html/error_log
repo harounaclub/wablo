@@ -1,0 +1,3 @@
+[29-Dec-2016 09:43:46 America/Chicago] PHP Fatal error:  Call to undefined method Importation_model::add_compte_credit() in /home2/megviccv/public_html/flp/coeur/modules/importation/controllers/importation.php on line 462
+[29-Dec-2016 09:44:46 America/Chicago] PHP Fatal error:  Call to undefined method Importation_model::add_compte_credit() in /home2/megviccv/public_html/flp/coeur/modules/importation/controllers/importation.php on line 462
+[29-Dec-2016 09:45:31 America/Chicago] PHP Fatal error:  Call to undefined method Importation_model::add_compte_credit() in /home2/megviccv/public_html/flp/coeur/modules/importation/controllers/importation.php on line 462
