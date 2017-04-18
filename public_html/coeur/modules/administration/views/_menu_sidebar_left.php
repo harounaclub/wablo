@@ -27,7 +27,7 @@
                                     <ul>  
                                         
                                         <li><a href="<?php echo base_url() ?>administration/ajout_categorie_entreprise">categories personnel</a></li>
-                                        <li><a href="<?php echo base_url() ?>administration/ajout_valeur">personnel entreprise</a></li>
+                                        <li><a href="<?php echo base_url() ?>administration/ajout_personnel_entreprise">personnel entreprise</a></li>
                                       
                                         
                                     </ul>
